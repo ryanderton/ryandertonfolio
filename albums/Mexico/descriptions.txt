@@ -1,0 +1,12 @@
+album;These are some photos from our first trip to <B>Mexico!!</B>.  We stay at a resort called Aventura Spa Palace but they have now changed the name to Hard Rock Hotel Riviera Maya.  It was beautiful and probably the fanciest places I've ever stayed.;
+IMG_1805 (Medium).JPG;Just some ruins;
+IMG_1812 (Medium).JPG;A lizard;
+IMG_1845 (Medium).JPG;Tulum Mexico;
+IMG_1925 (Medium).JPG;chicanica mexico;
+IMG_1950 (Medium).JPG;chicanica mexico ruins;
+IMG_2018 (Medium).JPG;Our Hotel;
+IMG_6291 (Medium).JPG;Me at Our Hotel;
+IMG_6292 (Medium).JPG;Kelsey at Our Hotel;
+IMG_6293 (Medium).JPG;Kelsey checking out the ocean;
+IMG_6521 (Medium).JPG;Kelsey and I at Chicanica;
+mexico.jpg;This is where we stayed. GPS: 20.508538, -87.213346;
