@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Image Gallery By FolioPages.com</title>
+<title>Our Trips and Adventures!</title>
 
 <link type="text/css" rel="stylesheet" href="../css/bootstrap.css" />
 <link type="text/css" rel="stylesheet" href="../css/foliogallery.css" />
@@ -30,7 +30,7 @@ $(document).ready(function(){
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#">Ryanderton</a>
+			<a class="navbar-brand" href="http://www.ryanderton.com">Ryanderton</a>
 		</div>
 
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
