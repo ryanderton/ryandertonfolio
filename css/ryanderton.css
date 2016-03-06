@@ -19,6 +19,15 @@ body {
   background-color: #ffffff;
 }
 
+.fg {
+position:relative;
+overflow:hidden;
+width:100%;
+max-width:100%;
+margin:0 auto;
+padding:0;
+}
+
 .fg .description-wrapper {
 	font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 16px;
@@ -26,13 +35,19 @@ body {
 	padding: 10px 30px 10px 30px;
 }
 
+.fg .thumb-wrapper {
+width:210px;
+height:140px;
+margin:8px;
+background-color:#fff;
+border-radius:2px;
+box-shadow: 0px 0px 4px 1px #7a7a7a;
+z-index:198;
+}
+
 .navbar {
 	margin-top: 40px;
 	border-radius: 0px;
-}
-
-.fg {
-max-width:90%;
 }
 
 .fg .thumb-wrapper .caption {
