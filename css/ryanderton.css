@@ -108,3 +108,10 @@ p img {
    padding-bottom: 15px;
    padding-left: 15px;
   }
+
+	hr {
+	  margin-top: 23px;
+	  margin-bottom: 23px;
+	  border: 0;
+	  border-top: 3px solid #eeeeee;
+	}
